@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\metodoConstrutor\bin\Debug\metodoConstrutor.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\metodoConstrutor\bin\Debug\metodoConstrutor.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\metodoConstrutor\bin\Debug\metodoConstrutor.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\metodoConstrutor\obj\Debug\metodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\metodoConstrutor\obj\Debug\metodoConstrutor.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\metodoConstrutor\obj\Debug\metodoConstrutor.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\metodoConstrutor\obj\Debug\metodoConstrutor.csprojAssemblyReference.cache

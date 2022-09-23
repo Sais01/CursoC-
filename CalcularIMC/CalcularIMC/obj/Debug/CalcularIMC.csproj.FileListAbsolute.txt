@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\MétodosDasClasses\bin\Debug\MétodosDasClasses.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\MétodosDasClasses\bin\Debug\MétodosDasClasses.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\MétodosDasClasses\bin\Debug\MétodosDasClasses.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\MétodosDasClasses\obj\Debug\MétodosDasClasses.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\MétodosDasClasses\obj\Debug\MétodosDasClasses.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\MétodosDasClasses\obj\Debug\MétodosDasClasses.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\MétodosDasClasses\obj\Debug\MétodosDasClasses.pdb

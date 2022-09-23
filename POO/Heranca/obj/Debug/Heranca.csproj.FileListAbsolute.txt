@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Heranca\bin\Debug\Heranca.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Heranca\bin\Debug\Heranca.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Heranca\obj\Debug\Heranca.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Heranca\obj\Debug\Heranca.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Heranca\obj\Debug\Heranca.pdb

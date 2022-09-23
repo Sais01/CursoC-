@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\tipoDelegate\bin\Debug\tipoDelegate.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\tipoDelegate\bin\Debug\tipoDelegate.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\tipoDelegate\bin\Debug\tipoDelegate.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\tipoDelegate\obj\Debug\tipoDelegate.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\tipoDelegate\obj\Debug\tipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\tipoDelegate\obj\Debug\tipoDelegate.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\tipoDelegate\obj\Debug\tipoDelegate.pdb

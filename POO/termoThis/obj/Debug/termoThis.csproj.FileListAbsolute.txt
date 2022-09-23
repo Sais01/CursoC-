@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\termoThis\bin\Debug\termoThis.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\termoThis\bin\Debug\termoThis.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\termoThis\bin\Debug\termoThis.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\termoThis\obj\Debug\termoThis.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\termoThis\obj\Debug\termoThis.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\termoThis\obj\Debug\termoThis.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\termoThis\obj\Debug\termoThis.pdb

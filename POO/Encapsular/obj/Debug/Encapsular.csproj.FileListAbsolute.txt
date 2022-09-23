@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Encapsular\bin\Debug\Encapsular.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Encapsular\obj\Debug\Encapsular.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Encapsular\obj\Debug\Encapsular.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Encapsular\obj\Debug\Encapsular.pdb

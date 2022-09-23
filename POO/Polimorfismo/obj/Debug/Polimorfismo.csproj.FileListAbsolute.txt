@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Polimorfismo\obj\Debug\Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Polimorfismo\obj\Debug\Polimorfismo.pdb

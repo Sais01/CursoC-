@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\ClasseObjetos\bin\Debug\ClasseObjetos.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\ClasseObjetos\bin\Debug\ClasseObjetos.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\ClasseObjetos\bin\Debug\ClasseObjetos.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\ClasseObjetos\obj\Debug\ClasseObjetos.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\ClasseObjetos\obj\Debug\ClasseObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\ClasseObjetos\obj\Debug\ClasseObjetos.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\ClasseObjetos\obj\Debug\ClasseObjetos.pdb

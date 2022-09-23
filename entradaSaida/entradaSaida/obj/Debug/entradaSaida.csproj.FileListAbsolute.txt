@@ -1,0 +1,7 @@
+C:\Users\Cristofer\source\repos\entradaSaida\entradaSaida\bin\Debug\entradaSaida.exe.config
+C:\Users\Cristofer\source\repos\entradaSaida\entradaSaida\bin\Debug\entradaSaida.exe
+C:\Users\Cristofer\source\repos\entradaSaida\entradaSaida\bin\Debug\entradaSaida.pdb
+C:\Users\Cristofer\source\repos\entradaSaida\entradaSaida\obj\Debug\entradaSaida.csprojAssemblyReference.cache
+C:\Users\Cristofer\source\repos\entradaSaida\entradaSaida\obj\Debug\entradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\source\repos\entradaSaida\entradaSaida\obj\Debug\entradaSaida.exe
+C:\Users\Cristofer\source\repos\entradaSaida\entradaSaida\obj\Debug\entradaSaida.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Controle\Controle\bin\Debug\Controle.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Controle\Controle\bin\Debug\Controle.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Controle\Controle\bin\Debug\Controle.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Controle\Controle\obj\Debug\Controle.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Controle\Controle\obj\Debug\Controle.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Controle\Controle\obj\Debug\Controle.pdb

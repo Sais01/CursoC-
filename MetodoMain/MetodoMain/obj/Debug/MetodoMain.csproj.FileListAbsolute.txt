@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\MetodoMain\MetodoMain\bin\Debug\MetodoMain.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\MetodoMain\MetodoMain\obj\Debug\MetodoMain.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\MetodoMain\MetodoMain\obj\Debug\MetodoMain.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csprojAssemblyReference.cache

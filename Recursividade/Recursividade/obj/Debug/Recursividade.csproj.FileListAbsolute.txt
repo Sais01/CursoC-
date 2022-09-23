@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Recursividade\Recursividade\bin\Debug\Recursividade.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Recursividade\Recursividade\bin\Debug\Recursividade.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Recursividade\Recursividade\bin\Debug\Recursividade.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Recursividade\Recursividade\obj\Debug\Recursividade.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Recursividade\Recursividade\obj\Debug\Recursividade.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\Recursividade\Recursividade\obj\Debug\Recursividade.csprojAssemblyReference.cache

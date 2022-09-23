@@ -1,0 +1,7 @@
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Propriedades\bin\Debug\Propriedades.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Propriedades\bin\Debug\Propriedades.pdb
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Propriedades\obj\Debug\Propriedades.csprojAssemblyReference.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Propriedades\obj\Debug\Propriedades.exe
+C:\Users\Cristofer\Desktop\IFRS\Repositorio\POO\Propriedades\obj\Debug\Propriedades.pdb
